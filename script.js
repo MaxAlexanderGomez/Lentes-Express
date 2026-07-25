@@ -28,7 +28,7 @@ function changeSlide(direction) {
     showSlide(currentSlide + direction);
 }
 
-/* Automatically change photos every four seconds */
+/* Automatically change photos every five seconds */
 setInterval(() => {
     changeSlide(1);
 }, 5000);
