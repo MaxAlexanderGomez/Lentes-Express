@@ -14,7 +14,6 @@ A responsive website designed for Lentes Express, an optical store .
 - Google Maps location
 - Contact information
 - Google Reviews section
-- Spanish-friendly content
 - Clean and accessible interface
 
 ## Technologies Used
