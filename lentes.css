@@ -545,6 +545,9 @@ footer {
 }
 
 
+/* ===========================
+   PHONE AND TEXT LINKS
+=========================== */
 a[href^="tel:"],
 a[href^="sms:"] {
     color: #17324d;
