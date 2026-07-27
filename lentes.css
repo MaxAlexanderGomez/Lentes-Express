@@ -544,6 +544,20 @@ footer {
     font-size:1.4rem;
 }
 
+
+a[href^="tel:"],
+a[href^="sms:"] {
+    color: #17324d;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a[href^="tel:"]:hover,
+a[href^="sms:"]:hover {
+    color: #0097A7;
+    text-decoration: underline;
+}
+
 .price span{
     display:block;
     font-size:1rem;
