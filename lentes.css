@@ -568,7 +568,9 @@ a[href^="sms:"]:hover {
 }
 
 
-
+/* ===========================
+   logo image on top
+=========================== */
 
 .logo {
     text-align: center;
